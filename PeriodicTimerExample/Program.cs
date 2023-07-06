@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 //Services
 builder.Services.AddScoped<ISomeService, SomeService>();
+builder.Services.AddScoped<ISomeNewService, SomeNewService>();
 
 //AddHostedService
 builder.Services.AddHostedService<RepeatingService>();
