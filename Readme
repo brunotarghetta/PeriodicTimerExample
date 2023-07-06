@@ -1,0 +1,21 @@
+Background tasks with hosted services in ASP.NET Core
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-7.0&tabs=visual-studio
+
+PeriodicTimer Class
+https://learn.microsoft.com/en-us/dotnet/api/system.threading.periodictimer?view=net-7.0
+
+PeriodicTimerExample 
+https://www.youtube.com/watch?v=J4JL4zR_l-0
+
+SampleTask 
+https://github.com/jantech/AspNetCore-Scheduler-Demo/tree/master
+
+Reading 
+
+Run scheduled background tasks in ASP.NET Core 
+https://pgroene.wordpress.com/2018/05/31/run-scheduled-background-tasks-in-asp-net-core/
+
+
+Quartz.Net
+https://www.quartz-scheduler.net/documentation/quartz-3.x/quick-start.html
+https://www.quartz-scheduler.net/documentation/quartz-3.x/packages/aspnet-core-integration.html
